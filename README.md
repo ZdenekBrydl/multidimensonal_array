@@ -1,2 +1,2 @@
-# multidimensonal_array
-Creation of multidimensonal array by user input.
+# multidimensonal_array_C
+Creation of multidimensonal array by user inputin C.
